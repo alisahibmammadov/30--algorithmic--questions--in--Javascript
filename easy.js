@@ -89,4 +89,16 @@ import { multiplativePersistance } from "./easy/32_multiplativePersistance.js";
 //console.log(multiplativePersistance(39));
 
 import { offLineMinumum } from "./easy/33_offLineMinumum.js";
-console.log(offLineMinumum(["5","4","6","E","1","7","E","E","3","2"]));
+// console.log(offLineMinumum(["5","4","6","E","1","7","E","E","3","2"]));
+
+import { changingSquence } from "./easy/34_changingSquence.js";
+// console.log(changingSquence([1, 2, 4, 6, 4, 3, 1]));
+
+import { superIncreasing } from "./easy/36_superincreasing.js";
+// console.log(superIncreasing([1,3,6,13,54]));
+import { overlappingRanges } from "./35_overlappingRanges.js";
+// console.log(overlappingRanges([4,10,2,6,3]));
+import { hamingDistance } from "./easy/37_hamingDistance.js";
+// console.log(hamingDistance("karolin","kathrin"));
+import { bitWise } from "./38_bitWise.js";
+console.log(bitWise(["1100", "0111"]));
